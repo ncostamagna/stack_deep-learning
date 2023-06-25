@@ -116,6 +116,37 @@ variance = accuracies.std()
 
 ```
 
+# Convolutional Neural Network
+
+For images, 2D array <br />
+<img src="images/18.png" /><br />
+4 steps: Convolution - Max Pooling - Flattening - Full Connection<br />
+https://adamharley.com/nn_vis/
+
+## Convolution
+
+<img src="images/19.png" /><br />
+We use many filters for creating many maps<br />
+<img src="images/20.png" /><br />
+
+## Pooling
+
+If I'm looking for a cheetah, in the images it is in differents directions, differents parts of the image<br /><br />
+Max Pooling set the max value in each range<br />
+<img src="images/21.png" /><br />
+<img src="images/22.png" />
+
+## Flattening
+
+<img src="images/23.png" /><br />
+<img src="images/24.png" />
+
+## Full Connection
+
+Pass flattening values through neural network<br />
+<img src="images/25.png" /><br />
+<img src="images/26.png" />
+
 # Recurrent Neural Network
 
 Aprendizaje Supervisado<br />
