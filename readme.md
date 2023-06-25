@@ -147,6 +147,17 @@ Pass flattening values through neural network<br />
 <img src="images/25.png" /><br />
 <img src="images/26.png" />
 
+## Softmax
+
+for example, cat and dog are z1 and z2, Softmax applys values beetwen 0 and 1<br />
+<img src="images/27.png" /><br />
+the sum of z1, z2, .., zn must be 1<br />
+<img src="images/28.png" /><br />
+
+## Cross-Entropy
+
+Compare and check if is right or not. Better for clasification
+
 # Recurrent Neural Network
 
 Aprendizaje Supervisado<br />
