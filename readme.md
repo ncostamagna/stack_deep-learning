@@ -11,6 +11,13 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+# New environment
+
+```sh
+conda search python # show all python version
+
+```
+
 # Funcion de Activacion
 
 ## Threshold
